@@ -1,0 +1,39 @@
+
+#pronostico{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+i{
+    font: size 1.5em;
+}
+#mapid { 
+height: 20cm;
+width: 20cm;
+margin-left: 0;
+margin-right: auto;
+ }
+.prediccion{
+    margin-top: 250px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 3cm;
+    margin-right: 30px;
+    border: solid black;
+    flex-wrap: wrap;
+    
+}
+.pron{
+    display:flex;
+    flex-direction: row;
+    
+}
+*{
+    font-size: medium;
+}
+#configuracion{
+    margin-left: 15cm;
+}
